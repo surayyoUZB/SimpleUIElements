@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SimpleUIElements</string>
+    <string name="language">Kotlin Java Swift C++ JavaScript Python C# C</string>
 </resources>
